@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "DaniLees",
+    "slug": "danilees",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "d6e12a2f-e82b-4a5d-95d1-abb880f3ddea"
+      }
+    },
+    "android": {
+      "package": "com.mui10.danilees"
+    }
+  }
+}
